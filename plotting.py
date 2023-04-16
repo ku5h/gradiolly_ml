@@ -19,7 +19,7 @@ def plot_bivariate_normal(num_points):
     fig = px.scatter(df, x=df.columns[0], y=df.columns[1])
     fig2 = px.density_heatmap(df, x=df.columns[0], y=df.columns[1])
 
-    return fig, fig2
+    return fig, fig2            
 
 def plot_mount_bruno():
     # Read data from a csv
