@@ -1,3 +1,3 @@
 # gradiolly_ml
 
-Simple Hands-On Intro to Gradio!
+Simple Hands-On Intro to Gradio and building ML Applications with it.
